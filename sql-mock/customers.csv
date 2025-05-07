@@ -1,7 +1,7 @@
-id,name,age
-1,Ruby,13
-2,Tutu,9
-3,Joker,19
-4,Gabbi,3
-5,Coconut,7
-6,Sugarplum,2
+id,name,age,breed
+1,Ruby,13,pug
+2,Tutu,9,poodle
+3,Joker,19,terrier
+4,Gabbi,3,mix
+5,Coconut,7,maltese
+6,Sugarplum,2,maltipoo
