@@ -1,0 +1,9 @@
+[
+  { "id": 1, "player name": "Michael Jordan"},
+  { "id": 2, "player name": "LeBron James"},
+  { "id": 3, "player name": "Shaquille O'Neal"},
+  { "id": 4, "player name": "Kobe Bryant"},
+  { "id": 5, "player name": "Kevin Durant"},
+  { "id": 6, "player name": "Magic Johnson"},
+  { "id": 7, "player name": "Larry Bird" }
+]
