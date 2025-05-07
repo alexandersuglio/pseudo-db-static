@@ -1,7 +1,7 @@
-id,name
-1,Ruby
-2,Tutu
-3,Joker
-4,Gabbi
-5,Coconut
-6,Sugarplum
+id,name,age
+1,Ruby,13
+2,Tutu,9
+3,Joker,19
+4,Gabbi,3
+5,Coconut,7
+6,Sugarplum,2
